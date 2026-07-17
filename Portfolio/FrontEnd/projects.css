@@ -384,3 +384,17 @@ a { text-decoration: none; color: inherit; }
 
   .project-thumb { width: 280px; }
 }
+
+/* Hisaab Kitaab Card */
+.thumb-3{
+    background:#1f243d;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.project-logo{
+    width:120px;
+    height:120px;
+    object-fit:contain;
+}
